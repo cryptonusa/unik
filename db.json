@@ -1,0 +1,25 @@
+{
+    "tokens": [
+        {
+            "id": 0,
+            "description": "Kode Unik",
+            "external_url": "https://www.fortinusa.co.id",
+            "image": "https://fortinusa.co.id/storage/assets/images/logo-navbar.png",
+            "name": "UNIK 0"
+        },
+        {
+            "id": 0,
+            "description": "Kode Unik",
+            "external_url": "https://www.fortinusa.co.id",
+            "image": "https://fortinusa.co.id/storage/assets/images/logo-navbar.png",
+            "name": "UNIK 1"
+        },
+        {
+            "id": 0,
+            "description": "Kode Unik",
+            "external_url": "https://www.fortinusa.co.id",
+            "image": "https://fortinusa.co.id/storage/assets/images/logo-navbar.png",
+            "name": "UNIK 2"
+        }
+    ]
+}
